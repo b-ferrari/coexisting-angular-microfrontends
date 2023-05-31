@@ -9,6 +9,5 @@
   "license": "MIT",
   "devDependencies": {
     "serve": "^11.1.0"
-  },
-  "dependencies": {}
+  }
 }
